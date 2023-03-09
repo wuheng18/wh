@@ -1394,6 +1394,19 @@
         ]
       } },
 
+{"name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+
+{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="},
+
+{"name":"4K","type":0,"url":"https://jx.4kdv.com/?url="},
+
+{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
+
+{"name":"菜妮丝","type":0,"url":"https://jx.cainisi.cf/?v="},
+
+{"name":"CK解析","type":1,"url":"http://api.ckflv.cn/?url="},
+
+
 {
 "name":"解析1",
 "type":1,
